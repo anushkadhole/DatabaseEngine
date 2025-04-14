@@ -10,6 +10,6 @@ This project simulates an in-memory storage engine for handling key-value pairs.
 - Supports file-based data storage
 
 ## Technologies
-- C++ | SLQL
+- C++ | SQL
 - B+ Tree data structure
 - File I/O
