@@ -9,12 +9,8 @@ This project simulates an in-memory storage engine for handling key-value pairs.
 - SQL-like command parser in C++
 - Supports file-based data storage
 
-## Setup
-1. Clone the repository.
-2. Navigate to the project directory and run `make` to compile.
-3. Execute the program using `./dbengine`.
 
 ## Technologies
-- C++
+- C++ | SQL
 - B+ Tree data structure
 - File I/O
