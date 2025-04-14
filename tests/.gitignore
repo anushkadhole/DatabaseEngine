@@ -1,0 +1,5 @@
+# Ignore compiled object files
+*.o
+
+# Ignore executable binaries
+/dbengine
